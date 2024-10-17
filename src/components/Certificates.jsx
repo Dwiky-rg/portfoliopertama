@@ -126,7 +126,7 @@ function Certificates() {
   }
 
   return (
-    <section className="py-8 lg:section mb-20" id="certificates">
+    <section className="py-8 lg:section mb-36" id="certificates">
       <div className="container mx-auto">
         <div className="flex flex-col items-center">
           <motion.div

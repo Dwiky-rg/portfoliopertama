@@ -15,7 +15,7 @@ function About() {
   };
 
   return (
-    <section className="section mb-20" id="about" ref={ref}>
+    <section className="section mb-36" id="about" ref={ref}>
       <div className="container mx-auto">
         <div className="flex flex-col gap-y-8 lg:flex-row items-center lg:gap-x-20 lg:gap-y-0 h-screen">
           <motion.div

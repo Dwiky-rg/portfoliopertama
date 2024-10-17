@@ -3,7 +3,7 @@ import { fadeIn } from "../variants";
 
 function Contact() {
   return (
-    <section className="py-8 lg:section" id="contact">
+    <section className="py-8 lg:section mb-20" id="contact">
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row">
           <motion.div

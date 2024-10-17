@@ -65,7 +65,7 @@ function Hero() {
               viewport={{ once: false, amount: 0.7 }}
               className="mb-6 max-w-lg mx-auto lg:mx-0"
             >
-              Active student majoring in informatics engineering
+              Active student majoring in informatics engineering&nbsp;
               <span className="hidden md:inline">
                 <br />
               </span>
