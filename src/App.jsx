@@ -15,8 +15,6 @@ function App() {
       <About />
       <Certificates />
       <Contact />
-
-      <div className="h-[8000px]"></div>
     </div>
   );
 }
